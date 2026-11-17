@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CinePro Cam</string>
+    <string name="permission_title">Izin Kamera &amp; Mikrofon Diperlukan</string>
+    <string name="permission_desc">CinePro Cam membutuhkan akses Kamera dan Mikrofon untuk merekam video sinematik dengan kontrol manual penuh (Shutter Speed, ISO, Fokus, dan Resolusi).</string>
+    <string name="grant_permission">Berikan Izin Kamera &amp; Audio</string>
+    <string name="tab_camera">Kamera</string>
+    <string name="tab_gallery">Galeri Video</string>
+    <string name="rec_status">REC</string>
+    <string name="stby_status">STBY</string>
+    <string name="auto_label">AUTO</string>
+    <string name="manual_label">MANUAL</string>
+    <string name="shutter_speed">Shutter Speed</string>
+    <string name="iso_sensitivity">ISO</string>
+    <string name="focus_control">Fokus</string>
+    <string name="aspect_ratio">Rasio Ukuran</string>
+    <string name="resolution">Resolusi</string>
+    <string name="guides_overlay">Garis Bantu</string>
+    <string name="guide_rule_of_thirds">Rule of Thirds</string>
+    <string name="guide_crosshair">Crosshair</string>
+    <string name="guide_grid">Grid 4x4</string>
+    <string name="guide_diagonal">Diagonal</string>
+    <string name="guide_horizon">Horizon Line (Level)</string>
+    <string name="gallery_empty_title">Belum Ada Rekaman Video</string>
+    <string name="gallery_empty_subtitle">Rekam video pertama Anda menggunakan kontrol sinematik manual di layar Kamera.</string>
+    <string name="delete_video">Hapus Video</string>
+    <string name="share_video">Bagikan Video</string>
+    <string name="close_player">Tutup Pemutar</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "CinePro Cam",
+  "description": "Aplikasi kamera video profesional dengan pengaturan manual shutter speed hingga 1/24, ISO manual, fokus manual/otomatis, pilihan resolusi & rasio aspek (16:9, 19:6, 4:3, 3:2), garis bantu lengkap, serta galeri & pemutar video terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
